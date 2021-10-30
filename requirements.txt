@@ -29,4 +29,3 @@ naive_bayes
 Lasso
 model_selection
 metrics
-LogisticRegression
