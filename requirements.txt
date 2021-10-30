@@ -29,5 +29,4 @@ naive_bayes
 Lasso
 model_selection
 metrics
-linear_model
 LinearRegression
