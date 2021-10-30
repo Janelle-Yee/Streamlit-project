@@ -29,7 +29,6 @@ naive_bayes
 Lasso
 model_selection
 metrics
-feature_selection
 collections
 csv
 RFECV
