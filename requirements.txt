@@ -29,6 +29,9 @@ naive_bayes
 Lasso
 model_selection
 metrics
-train_test_split
+feature_selection
+collections
+csv
+RFECV
 linear_model
 LinearRegression
