@@ -29,6 +29,5 @@ naive_bayes
 Lasso
 model_selection
 metrics
-RFECV
 linear_model
 LinearRegression
